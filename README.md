@@ -24,4 +24,4 @@ Problem Scenario
 UML Diagram
 Source codes solution
 
-![BuilderPattern](https://github.com/charlesEgonzaga/builderpattern/assets/142955651/1de798b1-ebfe-4d8b-af9e-8b73d957c7a2)
+![BuilderPattern](https://github.com/charlesEgonzaga/builderpattern/assets/142955651/8c03dfbc-0f3a-4ddb-b968-52afcf8c0226)
